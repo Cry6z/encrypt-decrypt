@@ -13,7 +13,7 @@ Pilih menu:
 1 → Encrypt teks
 2 → Decrypt teks
 
-Catatan
+Catatan :
 File secret.key jangan dihapus.
 
 Kalo ilang, teks terenkripsi ga bakal bisa dibuka lagi.

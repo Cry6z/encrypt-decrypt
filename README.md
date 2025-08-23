@@ -8,11 +8,12 @@ Buat enkripsi & dekripsi.
    ```bash
    pip install cryptography
 2. Run:
+```
 python crypt.py
 Pilih menu:
 1 → Encrypt teks
 2 → Decrypt teks
-
+```
 ## Catatan :
 File secret.key jangan dihapus.
 

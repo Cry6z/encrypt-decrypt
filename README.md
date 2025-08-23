@@ -1,7 +1,7 @@
 # 🔐 Encryptor Decryptor Python
 
-Project gabut pake Python + cryptography.  
-Buat enkripsi & dekripsi teks biar sigma.
+Project gabut Python + cryptography.  
+Buat enkripsi & dekripsi.
 
 ## Cara jalanin
 1. Install dulu:
@@ -13,9 +13,7 @@ Pilih menu:
 1 → Encrypt teks
 2 → Decrypt teks
 
-Catatan :
+## Catatan :
 File secret.key jangan dihapus.
 
-Kalo ilang, teks terenkripsi ga bakal bisa dibuka lagi.
-
-😋😝
+Kalo ilang, teks terenkripsi ga bakal bisa dibuka lagi

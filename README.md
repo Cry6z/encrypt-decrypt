@@ -4,9 +4,9 @@ Project gabut Python + cryptography.
 Buat enkripsi & dekripsi.
 
 ## Cara jalanin
-1. Install dulu:
+1. Install:
    ```bash
-   pip install cryptography
+   pip install -r requirements.txt
 2. Run:
 ```
 python crypt.py

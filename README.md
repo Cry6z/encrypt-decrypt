@@ -1,9 +1,9 @@
-# 🔐 Encryptor Decryptor Python
+# Encryptor Decryptor Python
 
 Project gabut Python + cryptography.  
 Buat enkripsi & dekripsi.
 
-## Cara jalanin
+## Cara pakai
 1. Install:
    ```bash
    pip install -r requirements.txt
@@ -17,4 +17,4 @@ Pilih menu:
 ## Catatan :
 File secret.key jangan dihapus.
 
-Kalo ilang, teks terenkripsi ga bakal bisa dibuka lagi
+Kalo ilang, teks terenkripsi tidak bisa dibuka lagi

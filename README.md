@@ -6,11 +6,11 @@ Buat enkripsi & dekripsi.
 ## Cara pakai
 1. Install:
    ```bash
-   pip install -r requirements.txt
+   pip install cryptography
 2. Run:
 ```
 python crypt.py
-Pilih menu:
+pilih menu:
 1 → Encrypt teks
 2 → Decrypt teks
 ```

@@ -16,5 +16,3 @@ pilih menu:
 ```
 ## Catatan :
 File secret.key jangan dihapus.
-
-Kalo ilang, teks terenkripsi tidak bisa dibuka lagi
